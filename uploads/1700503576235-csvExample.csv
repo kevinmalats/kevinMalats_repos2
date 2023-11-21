@@ -1,0 +1,11 @@
+id,balance,account,description,status,date;balance;account;description;status;date
+1,1000,12345,Compra de suministros,Pendiente,2023-11-19;;;;;
+2,500,67890,Pago de factura,Completo,2023-11-18;;;;;
+3,1200,54321,Ingreso de n¢mina,Pendiente,2023-11-17;;;;;
+4,800,98765,Compra en l¡nea,Completo,2023-11-16;;;;;
+5,300,23456,Transferencia ahorros,Pendiente,2023-11-15;;;;;
+6,700,87654,Compra de equipo,Completo,2023-11-14;;;;;
+7,900,34567,Pago de alquiler,Pendiente,2023-11-13;;;;;
+8,200,65432,Devoluci¢n de producto,Completo,2023-11-12;;;;;
+9,600,21098,Retiro en cajero,Pendiente,2023-11-11;;;;;
+10,1100,78901,Compra de software,Completo,2023-11-10;;;;;

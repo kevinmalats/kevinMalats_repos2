@@ -5,6 +5,5 @@ const prisma = new PrismaClient();
 export class PrismaService {
   constructor() {}
 
-  task = prisma.task;
-  user = prisma.user;
+  ticket = prisma.ticket;
 }

@@ -1,0 +1,4 @@
+id,balance,account,description,status,date
+1,1000,"INTERNAL","Compra de suministros","PROCESSED",2023-11-20T12:30:45.000Z
+2,1000,"INTERNAL","Compra de suministros","PROCESSED",2023-11-20T12:30:45.000Z
+1,1000,"INTERNAL","Compra de suministros","PROCESSED",2023-11-20T12:30:45.000Z
